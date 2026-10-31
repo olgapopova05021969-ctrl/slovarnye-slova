@@ -1,0 +1,17 @@
+{
+  "name": "Словарик — словарные слова",
+  "short_name": "Словарик",
+  "description": "Тренажёр словарных слов для начальной школы, «Школа России»",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff1dc",
+  "theme_color": "#ff7a3d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
